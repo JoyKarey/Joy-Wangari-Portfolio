@@ -1,4 +1,4 @@
-# Joy-Wangari-Portfolio
+# Joy Wangari Portfolio
 <h1> Hey There ! I'm Joy :wave: </h1>
 <h2> This is my Data Science Portfolio:smile: </h2>
 

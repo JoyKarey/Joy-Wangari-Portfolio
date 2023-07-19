@@ -34,6 +34,7 @@ This is a collection of my work that will showcase my skills as I learn them.
                - [Hypothesis Testing](https://github.com/JoyKarey/dsc-hypothesis-testing-lab/blob/master/HypothesisTestingCumulativeLab.ipynb): Using pandas to clean up a dataset and perform some EDA, then perform statistical tests and interpret their results in order to Analyze Health Trends.
 		
 	- __Tableau__
+              - [Tableau Profile](https://public.tableau.com/app/profile/joy.wangari)
 		
 
 

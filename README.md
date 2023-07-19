@@ -16,10 +16,12 @@ This is a collection of my work that will showcase my skills as I learn them.
 
 - ### Data Analysis and Visualisation
 	- __Python__
+   		- [Preprocessing with scikit-learn](https://github.com/JoyKarey/dsc-sklearn-preprocessing-lab/blob/master/index%20.ipynb): Prepare the Ames Housing Dataset for Modeling.
 		- [EDA with Pandas](https://github.com/JoyKarey/dsc-pandas-eda-lab/blob/master/index.ipynb): Exploratory Analysis the Ames Housing Dataset with Pandas
+    		- [Website A/B Testing]([https://github.com/JoyKarey/dsc-pandas-eda-lab/blob/master/index.ipynb]): Investigating whether data is collected from the homepage of a music app page for audacity.
 		
 		
-	_Tools: Pandas, Seaborn and Matplotlib_
+	_Tools: Pandas, Seaborn ,Scikit-Learn and Matplotlib_
 
 	
 - ### Micro Projects: 
@@ -27,6 +29,7 @@ This is a collection of my work that will showcase my skills as I learn them.
 	- __Python__
 		- [ML with Logistic Regression](https://github.com/JoyKarey/dsc-logistic-regression-lab/blob/master/Logistic_Regression.ipynb): End-to-End ML Process with Logistic Regression on the Forest Cover Dataset
 		- [Multiple Linear Regression](https://github.com/JoyKarey/dsc-multiple-regression-cumulative-lab/blob/master/Multiple_Linear_Regression.ipynb): Develop a Model of Diamond Prices.
+    		- [Hypothesis Testing](https://github.com/JoyKarey/dsc-hypothesis-testing-lab/blob/master/HypothesisTestingCumulativeLab.ipynb): Using pandas to clean up a dataset and perform some EDA, then perform statistical tests and interpret their results in order to Analyze Health Trends.
 		
 	- __Tableau__
 		

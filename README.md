@@ -29,10 +29,12 @@ This is a collection of my work that will showcase my skills as I learn them.
 - ### Micro Projects: 
 
 	- __Python__
-		- [ML with Logistic Regression](https://github.com/JoyKarey/dsc-logistic-regression-lab/blob/master/Logistic_Regression.ipynb): End-to-End ML Process with Logistic Regression on the Forest Cover Dataset
+                
+		- [ML with Logistic Regression](https://github.com/JoyKarey/dsc-logistic-regression-lab/blob/master/Logistic_Regression.ipynb): End-to-End ML Process with Logistic Regression on the Forest Cover Dataset.
+ 		 - [Integrating PCA in Pipelines](https://github.com/JoyKarey/Joy-Wangari-Portfolio/blob/main/Notebooks/Integrating%20PCA%20in%20Pipelines.ipynb):Using pipelines in scikit-learn to combine several supervised learning algorithms in a manageable pipeline and integrating PCA along with classifiers in the pipeline. 
 		- [Multiple Linear Regression](https://github.com/JoyKarey/dsc-multiple-regression-cumulative-lab/blob/master/Multiple_Linear_Regression.ipynb): Develop a Model of Diamond Prices.
-               - [Hypothesis Testing](https://github.com/JoyKarey/dsc-hypothesis-testing-lab/blob/master/HypothesisTestingCumulativeLab.ipynb): Using pandas to clean up a dataset and perform some EDA, then perform statistical tests and interpret their results in order to Analyze Health Trends.
-		
+  		- [Hypothesis Testing](https://github.com/JoyKarey/dsc-hypothesis-testing-lab/blob/master/HypothesisTestingCumulativeLab.ipynb): Using pandas to clean up a dataset and perform some EDA, then perform statistical tests and interpret their results in order to Analyze Health Trends.
+    		
 	- __Tableau__
               - [Tableau Profile](https://public.tableau.com/app/profile/joy.wangari)
 		

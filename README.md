@@ -35,7 +35,8 @@ This is a collection of my work that will showcase my skills as I learn them.
  		 - [Integrating PCA in Pipelines](https://github.com/JoyKarey/Joy-Wangari-Portfolio/blob/main/Notebooks/Integrating%20PCA%20in%20Pipelines.ipynb):Using pipelines in scikit-learn to combine several supervised learning algorithms in a manageable pipeline and integrating PCA along with classifiers in the pipeline. 
 		- [Multiple Linear Regression](https://github.com/JoyKarey/dsc-multiple-regression-cumulative-lab/blob/master/Multiple_Linear_Regression.ipynb): Develop a Model of Diamond Prices.
   		- [Hypothesis Testing](https://github.com/JoyKarey/dsc-hypothesis-testing-lab/blob/master/HypothesisTestingCumulativeLab.ipynb): Using pandas to clean up a dataset and perform some EDA, then perform statistical tests and interpret their results in order to Analyze Health Trends.
-                - [Image Recognition with PCA](https://github.com/JoyKarey/Joy-Wangari-Portfolio/blob/main/Notebooks/Image%20Recognition%20with%20PCA.ipynb):Exploring the classic MNIST dataset of handwritten digits.It provides a 64-dimensional dataset for feature reduction.		
+                - [Image Recognition with PCA](https://github.com/JoyKarey/Joy-Wangari-Portfolio/blob/main/Notebooks/Image%20Recognition%20with%20PCA.ipynb):Exploring the classic MNIST dataset of handwritten digits.It provides a 64-dimensional dataset for feature reduction.
+               - [Bulk Emails with Unique Attachments](https://github.com/JoyKarey/Joy-Wangari-Portfolio/blob/main/Notebooks/Image%20Recognition%20with%20PCA.ipynb):This script aids with sending Bulk emails with Unique attachments.
 	- __Tableau__
               - [Tableau Profile](https://public.tableau.com/app/profile/joy.wangari)
 		
